@@ -30,4 +30,4 @@
   直接运行test.py文件，即可获得测试集样本的平均识别准确率；
   直接运行show.py文件，可将数据可视化；
   注意：运行train.py后，模型会重新保存，请将model文件夹内的85%.zip解压后，覆盖原
-  net_trained.pth后，再运行test.py文件，防止模型改变后准确律改变
+  net_trained.pth后，再运行test.py文件，防止模型改变后准确率改变
